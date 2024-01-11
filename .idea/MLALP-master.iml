@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mAP-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/yolo_master" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.6.13 (sftp://czj@10.250.190.218:8999/home/czj/anaconda3/envs/py36/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
